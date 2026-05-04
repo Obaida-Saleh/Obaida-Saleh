@@ -1,19 +1,27 @@
 # Hi 👋, I'm Obaida Saleh
 
-💻 Full Stack Developer | Backend Specialist (Laravel)
+💻 Full Stack Developer with a strong passion for Backend Engineering
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Building scalable backend systems using Laravel
-* 🛒 Developed a full E-commerce platform
-* 🧾 Built a complete invoicing system
-* ⚙️ Focused on clean architecture, APIs, and performance
+I am a Full Stack Developer focused on building scalable, secure, and high-performance backend systems using Laravel.
+
+I enjoy solving real-world problems by designing clean architectures and developing reliable APIs. I have built complete systems including an E-commerce platform and an invoicing system.
+
+Currently, I am deeply focused on backend engineering, testing, and improving system performance.
 
 ---
 
 ## 🧠 Tech Stack
+
+### ⚙️ Backend Engineering
+
+* PHP
+* Laravel
+* REST APIs
+* Filament
 
 ### 🎨 Frontend
 
@@ -27,48 +35,52 @@
 
 * MySQL
 
-### ⚙️ Backend
-
-* PHP
-* Laravel
-* Filament
-* REST APIs
-
 ### 🧪 Testing
 
 * Unit Testing
 * Feature Testing
 * Playwright
 
-### 🧰 Tools
-
-* Postman
-* Git
-* GitHub
-
 ### 🚀 DevOps & Tools
 
 * Docker
-* Dapr (basic knowledge)
+* Git & GitHub
+* Postman
+* Dapr (Basics)
+
+---
+
+## 🔥 What I Bring
+
+* Build scalable backend systems using Laravel
+* Design clean and maintainable architectures
+* Develop secure authentication systems (Sanctum, OTP)
+* Write testable and reliable code
+* Strong problem-solving mindset
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 E-commerce System
+### 🛒 E-commerce Platform
 
-Full online store with authentication, products, orders, and admin panel
+A complete online store with authentication, product management, orders, and admin panel.
 
-### 🔹 Invoicing System
+### 🧾 Invoicing System
 
-Invoice creation, management, and tracking system
+A full system for managing invoices, tracking payments, and handling business logic.
 
-### 🔹 Authentication API
+### 🔐 Authentication API
 
-Login, Register, OTP verification using Laravel Sanctum
+Secure API with login, registration, OTP verification, and token-based authentication.
 
 ---
 
-## 📫 Contact Me
+
+## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/obaida-saleh-dev
+
+---
+
+⭐ Always learning. Always building. Always improving.
