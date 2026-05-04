@@ -14,14 +14,31 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-* Laravel, PHP
-* MySQL
-* REST APIs
-* Git & GitHub
-* Postman
-* JavaScript, HTML, CSS
+🧠 Tech Stack
+🎨 Frontend
+HTML
+CSS
+JavaScript
+Bootstrap
+Tailwind CSS
+🗄️ Database
+MySQL
+⚙️ Backend
+PHP
+Laravel
+Filament
+REST APIs
+🧪 Testing
+Unit Testing
+Feature Testing
+Playwright
+🧰 Tools
+Postman
+Git
+GitHub
+🚀 DevOps & Tools
+Docker
+Dapr (basic knowledge)
 
 ---
 
