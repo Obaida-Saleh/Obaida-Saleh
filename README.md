@@ -6,50 +6,69 @@
 
 ## 🚀 About Me
 
-* 🔭 Working on backend systems using Laravel
-* 💡 Building RESTful APIs and scalable applications
-* 🛒 Developed a full E-commerce system
+* 🔭 Building scalable backend systems using Laravel
+* 🛒 Developed a full E-commerce platform
 * 🧾 Built a complete invoicing system
-* 📚 Learning clean code and testing
+* ⚙️ Focused on clean architecture, APIs, and performance
 
 ---
 
-🧠 Tech Stack
-🎨 Frontend
-HTML
-CSS
-JavaScript
-Bootstrap
-Tailwind CSS
-🗄️ Database
-MySQL
-⚙️ Backend
-PHP
-Laravel
-Filament
-REST APIs
-🧪 Testing
-Unit Testing
-Feature Testing
-Playwright
-🧰 Tools
-Postman
-Git
-GitHub
-🚀 DevOps & Tools
-Docker
-Dapr (basic knowledge)
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+
+### 🗄️ Database
+
+* MySQL
+
+### ⚙️ Backend
+
+* PHP
+* Laravel
+* Filament
+* REST APIs
+
+### 🧪 Testing
+
+* Unit Testing
+* Feature Testing
+* Playwright
+
+### 🧰 Tools
+
+* Postman
+* Git
+* GitHub
+
+### 🚀 DevOps & Tools
+
+* Docker
+* Dapr (basic knowledge)
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-* E-commerce System
-* Invoicing System
-* Authentication API (OTP, Sanctum)
+### 🔹 E-commerce System
+
+Full online store with authentication, products, orders, and admin panel
+
+### 🔹 Invoicing System
+
+Invoice creation, management, and tracking system
+
+### 🔹 Authentication API
+
+Login, Register, OTP verification using Laravel Sanctum
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 * LinkedIn: https://linkedin.com/in/obaida-saleh-dev
