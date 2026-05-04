@@ -35,4 +35,4 @@
 
 ## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/ضع-الرابط-حقك
+* LinkedIn: https://linkedin.com/in/obaida-saleh-dev
