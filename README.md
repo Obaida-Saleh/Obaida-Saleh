@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Obaida Saleh
 
-<!--
-**Obaida-Saleh/Obaida-Saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Backend Specialist (Laravel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Working on backend systems using Laravel
+* 💡 Building RESTful APIs and scalable applications
+* 🛒 Developed a full E-commerce system
+* 🧾 Built a complete invoicing system
+* 📚 Learning clean code and testing
+
+---
+
+## 🛠️ Tech Stack
+
+* Laravel, PHP
+* MySQL
+* REST APIs
+* Git & GitHub
+* Postman
+* JavaScript, HTML, CSS
+
+---
+
+## 📂 Projects
+
+* E-commerce System
+* Invoicing System
+* Authentication API (OTP, Sanctum)
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/ضع-الرابط-حقك
