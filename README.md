@@ -1,86 +1,18 @@
-# Hi 👋, I'm Obaida Saleh
+# 💫 About Me:
+Full Stack Developer with a strong passion for Backend Engineering
 
-💻 Full Stack Developer with a strong passion for Backend Engineering
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/obaida-saleh-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obaida.saleh.dev@gmail.com) 
 
-## 🚀 About Me
-
-I am a Full Stack Developer focused on building scalable, secure, and high-performance backend systems using Laravel.
-
-I enjoy solving real-world problems by designing clean architectures and developing reliable APIs. I have built complete systems including an E-commerce platform and an invoicing system.
-
-Currently, I am deeply focused on backend engineering, testing, and improving system performance.
-
----
-
-## 🧠 Tech Stack
-
-### ⚙️ Backend Engineering
-
-* PHP
-* Laravel
-* REST APIs
-* Filament
-
-### 🎨 Frontend
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* Tailwind CSS
-
-### 🗄️ Database
-
-* MySQL
-
-### 🧪 Testing
-
-* Unit Testing
-* Feature Testing
-* Playwright
-
-### 🚀 DevOps & Tools
-
-* Docker
-* Git & GitHub
-* Postman
-* Dapr (Basics)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Obaida-Saleh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Obaida-Saleh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Obaida-Saleh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Obaida-Saleh&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🔥 What I Bring
-
-* Build scalable backend systems using Laravel
-* Design clean and maintainable architectures
-* Develop secure authentication systems (Sanctum, OTP)
-* Write testable and reliable code
-* Strong problem-solving mindset
-
----
-
-## 📂 Featured Projects
-
-### 🛒 E-commerce Platform
-
-A complete online store with authentication, product management, orders, and admin panel.
-
-### 🧾 Invoicing System
-
-A full system for managing invoices, tracking payments, and handling business logic.
-
-### 🔐 Authentication API
-
-Secure API with login, registration, OTP verification, and token-based authentication.
-
----
-
-
-## 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/obaida-saleh-dev
-
----
-
-⭐ Always learning. Always building. Always improving.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
